@@ -1,0 +1,2 @@
+## Consequences
+These decisions set the direction for our calculator app project. We made these choices based on our project timeline and what our team is comfortable with. Remember, we can't change these decisions later, so let's make sure we're all on board with them.
